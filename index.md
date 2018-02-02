@@ -35,8 +35,8 @@ Nuevamente, muchas gracias por tu aporte!.
 Chaucha Trader Pro, te permite ver en tiempo real el valor de las diferentes monedas que se encuentran en el exchange chileno [OrionX](https://www.orionx.io). El valor de las monedas se obtienen directamente desde la [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) expuesta por OrionX.
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/Chaucha.jpg">
-		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/Chaucha.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Chaucha.jpg">
+		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Chaucha.jpg">
 	</a>
 </div>
 
@@ -48,8 +48,8 @@ Con estas llaves, Chaucha Trader Pro podrá comunicarse con OrionX y dejarte ope
 
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/developers_keys.png">
-		<img style="width: 80%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/developers_keys.png">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/developers_keys.png">
+		<img style="width: 80%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/developers_keys.png">
 	</a>
 </div>
 
@@ -57,8 +57,8 @@ Con estas llaves, Chaucha Trader Pro podrá comunicarse con OrionX y dejarte ope
 Al crear la *KEY* o *llave*, te aparecerán dos ***hashes***, los cuales debes ingresar en la app Chaucha Trader Pro, ```Api Key``` y ```Secret Key```.
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/developers_keys_hashes.png">
-		<img style="width: 80%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/developers_keys_hashes.png">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/developers_keys_hashes.png">
+		<img style="width: 80%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/developers_keys_hashes.png">
 	</a>
 </div>
 
@@ -77,8 +77,8 @@ Además, debes indicar a lo menos uno de los permisos a la *KEY*. Esto es necesa
 Los hashes entregados en la sección indicada arriba, debes ingresarlos en la app Chaucha Trader Pro, cuando des click en ***Iniciar Sesión***.
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/InsertKeys.jpg">
-		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/InsertKeys.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/InsertKeys.jpg">
+		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/InsertKeys.jpg">
 	</a>
 </div>
 
@@ -99,14 +99,14 @@ Valor de tus (Coin): El valor de tus cripto con el valor actual de la moneda
 <br>
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/ChauchaConLucas.jpg">
-		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/ChauchaConLucas.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/ChauchaConLucas.jpg">
+		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/ChauchaConLucas.jpg">
 	</a>
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/Bitcoin.jpg">
-		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/Bitcoin.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Bitcoin.jpg">
+		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Bitcoin.jpg">
 	</a>
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/Ethereum.jpg">
-		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/Ethereum.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Ethereum.jpg">
+		<img style="width: 30%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Ethereum.jpg">
 	</a>
 </div>
 
@@ -117,11 +117,11 @@ Actualmente la aplicación sólo permite comprar y vender a precio de mercado. E
 Antes de generar cualquier operación, aparecerá una leyenda de confirmación como las siguientes:
 
 <div align="center">
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/Buy_ChauchaTrader.jpg">
-		<img style="width: 40%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/Buy_ChauchaTrader.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Buy_ChauchaTrader.jpg">
+		<img style="width: 40%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Buy_ChauchaTrader.jpg">
 	</a>
-	<a href="https://raw.githubusercontent.com/panterozo/Donations/master/img/Sell_ChauchaTrader.jpg">
-		<img style="width: 40%" src="https://raw.githubusercontent.com/panterozo/Donations/master/img/Sell_ChauchaTrader.jpg">
+	<a href="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Sell_ChauchaTrader.jpg">
+		<img style="width: 40%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Sell_ChauchaTrader.jpg">
 	</a>
 </div>
 
