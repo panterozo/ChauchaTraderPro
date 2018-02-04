@@ -44,6 +44,9 @@ Chaucha Trader Pro, te permite ver en tiempo real el valor de las diferentes mon
 
 Para poder comprar y vender desde la aplicación, deberás primero crearte una cuenta en OrionX [Aqui](https://orionx.io/register), y luego crear una llave para poder iniciar sesión en la aplicación. 
 
+Para obtener una `API Key` y `Secret Key` se pueden seguir los pasos en [este tutorial](https://www.orionx.io/developers/tutorials/creacion-api-key)
+
+
 Con estas llaves, Chaucha Trader Pro podrá comunicarse con OrionX y dejarte operar desde la app. Para crear estas llaves debes pinchar [Aqui](https://www.orionx.io/developers/keys) o seguir el siguiente link: **https://www.orionx.io/developers/keys**.
 
 
