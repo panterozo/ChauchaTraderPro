@@ -18,7 +18,7 @@ Bitcoins: `1CWpA2XnFnfTnbAJN94MpQWyunJgoKYz8K`
 
 Ethereum: `0x9f2688B1a76CC24dA8610E90767c319fb2EA2Af0`
 
-Ripple: `rhQrkgoV4uza557mW6HbBWMtTDkB7u5yrs`
+<!--Ripple: `rhQrkgoV4uza557mW6HbBWMtTDkB7u5yrs`-->
 
 Litecoin: `LVBocBQpqD7FrXiUNrAtrkQtw1JdG6CBQt`
 
