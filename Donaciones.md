@@ -9,8 +9,10 @@ Descarga la última versión Chaucha Trader Pro [Aqui](https://play.google.com/s
 		<img style="width: 50%" src="https://raw.githubusercontent.com/panterozo/Donaciones/master/img/Donacion.png">
 	</a>
 </div>
+<br>
 
-Te recuerdo que este proyecto se sustenta en donaciones, por lo que sin tu ayuda no es posible de mantener el proyecto.
+
+Este proyecto se sustenta en donaciones, por lo que tu ayuda es fundamental para mantener vivo el proyecto.
 
 # ``!Ayúdame para seguir mejorando la aplicación!``
 
