@@ -5,7 +5,7 @@ Hace unos días, los bancos comenzaron a cerrar las cuentas de los diferentes Ex
 se obtienen los montos y se realizan operaciones con **Chaucha Trader Pro**. 
 Producto de esto, para la noche de hoy Lunes 9 de Abril, la aplicación **Chaucha Trader Pro** eventualmente podría dejar de funcionar, ya que OrionX cerrará el mercado CLP, base sobre la cual **Chaucha Trader Pro** fue programado.
 
-Con ello, te comento que la aplicación tendrá que actualizarse en su debido momento, de aquí a un par de semanas, por lo que te recomiendo no desinstalar la app y esperar a la actualización que se estará informando en su debido momento.
+Con ello, te comento que la aplicación tendrá que actualizarse de aquí a un par de semanas, por lo que te recomiendo no desinstalar la app y esperar a la actualización que se estará informando en su debido momento.
 Lamentamos profundamente los problemas que esto pueda ocasionar.
 
 Como puedes ver, la decisión de los bancos está afectando a otros actores de este ecosistema que se forma alrededor de la casa de cambio OrionX, Buda y CryptoMKT. Por ello, también hacemos el llamado a que seas parte de la campaña en Twitter utilizando el hashtag [#ChileQuiereCryptos](https://twitter.com/search?q=%23ChileQuiereCryptos&src=tyah&lang=es).
