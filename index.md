@@ -12,7 +12,7 @@ Como puedes ver, la decisión de los bancos está afectando a otros actores de e
 Esperamos que las autoridades tomen cartas en el asunto, ya que consideramos que el cierre de cuentas habla de una profunda ignorancia más que de una providad o visión de futuro. 
 
 
-Te recuerdo que puedes seguir donando para que podamos seguir elavorando soluciones innovadoras. Tu apoyo es fundamental para que **Chaucha Trader Pro** pueda seguir operando.
+Te recuerdo que puedes seguir donando para que podamos seguir elaborando soluciones innovadoras. Tu apoyo es fundamental para que **Chaucha Trader Pro** pueda seguir operando.
 
 
 Chaucha: `ceoNBCv1JF6GgeAhsFLk6efbRkCX5n8kZn`
