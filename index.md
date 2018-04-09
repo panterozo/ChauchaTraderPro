@@ -1,7 +1,7 @@
 ## Información Importante
 
 
-Hace unos días, los bancos comenzaron a cerrar las cuentas de los diferentes Exchanges, incluidos OrionX, con el cual 
+Hace unos días los bancos comenzaron a cerrar las cuentas de los diferentes Exchanges, incluidos OrionX, con el cual 
 se obtienen los montos y se realizan operaciones con **Chaucha Trader Pro**. 
 Producto de esto, para la noche de hoy Lunes 9 de Abril, la aplicación **Chaucha Trader Pro** eventualmente podría dejar de funcionar, ya que OrionX cerrará el mercado CLP, base sobre la cual **Chaucha Trader Pro** fue programado.
 
