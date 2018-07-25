@@ -3,9 +3,9 @@
 
 # Chaucha Trader Pro
 
-Como te habrás enterado, dentro de los próximos días [OrionX](https://www.orionx.com) abrirá el mercado CLP, por lo que la aplicación  [Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro) volverá a funcionar sin problemas.
+Con la reapertura de las cuentas del exchange OrionX, la app [Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro) volverá a funcionar sin problemas, enhorabuena!.
 
-Por otra parte, te comento que he trabajado en varias funcionalidades en la aplicación para llevarla a otro nivel, para que la experiencia del usuario sea fantástica y rica en contenido. Estas mejoras vendrán con nuevas actualizaciones.
+Por otra parte, te comento que he trabajado en varias funcionalidades en la aplicación para llevarla a otro nivel, para que la experiencia del usuario sea fantástica y rica en contenido. Estas mejoras vendrán con nuevas actualizaciones. Actualiza la aplicación en el siguiente link [Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro).
 
 Se vienen nuevos proyectos, y tu apoyo es fundamental.
 
