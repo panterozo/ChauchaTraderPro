@@ -1,6 +1,6 @@
 {
     "appVersion" : "3.5.1",
-    "jsonVersion" : "0.0.1",
+    "jsonVersion" : "0.0.2",
     "exchange" : {
         "orionx" : {
             "markets" : [ 
@@ -8,6 +8,7 @@
                     "basecurrency" : "BTC",
                     "pares" : [ 
                         "CHA", 
+                        "LUK", 
                         "ETH", 
                         "XRP", 
                         "LTC", 
