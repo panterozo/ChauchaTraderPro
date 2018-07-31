@@ -9,6 +9,70 @@ Por otra parte, te comento que he trabajado en varias funcionalidades en la apli
 
 Se vienen nuevos proyectos, y tu apoyo es fundamental.
 
+## Imagen de Perfil
+
+La imagen de perfil del menú, se obtiene desde lo que se conoce como **Globally Recongnized Avatar** o **Avatar reconocido mundialmente**. La idea detrás de esto, es que con tu correo electrónico tengas un avatar global en internet. De esta manera, no es necesario subir una imagen en cada sitio por el cual navegues. 
+
+Para incluir tu imagen en **Chaucha Trader Pro**, te recomendamos subirla en [Gravatar](https://es.gravatar.com/), con el correo electrónico con el cual estés iniciando sesión.
+
+
+Tu gravatar | Avatar por defecto
+-----|-------
+![image](img/gravatar01.jpg) | ![image](img/gravatar02.jpg)
+
+## CoinMarketCap
+
+El sitio web [CoinMarketCap](https://coinmarketcap.com/) nos provee de información sobre una gran variedad de monedas a nivel global, tales como su valor, total de monedas en circularización, el volumen de las últimas 24 horas o la capitalización total de mercado.
+
+La información es actualizada cada 5 minutos.
+
+Los sistemas de CoinMarketCap buscan en un conjunto de Exchanges los montos transados en esas monedas, y es uno de los sitios más visitados en el mundo crypto.
+
+
+CoinMarketCap en Chaucha Trader | CoinMarketCap Online
+-----|-------
+![image](img/CoinMarketCap.jpg) | ![image](img/CoinMarketCap.png)
+
+## Configuraciones
+
+Las opciones de configuración de Chaucha Trader Pro te permitirán:
+
+- Seleccionar un valor por defecto para las velas japonesas
+- Seleccionar la moneda que quieres por defecto. Tenemos por ahora, *par* Bitcoin y CLP.
+- Actualizar mercados 
+- Configuración por defecto 
+
+El botón **Actualizar Mercados** buscará si existe alguna nueva moneda que agregar o quitar en Chaucha Trader Pro. De haber cambios en los mercados, podrás actualizar la configuración de la aplicación con un click. 
+
+El botón **Configuración por defecto** te permitirá reiniciar los valores de los componentes configurables.
+
+Home Configuración | Pares Disponibles | Actualizar mercados
+-----|-------|-------
+![image](img/Configuraciones01.jpg) | ![image](img/Configuraciones02.jpg) | ![image](img/Configuraciones03.jpg)
+
+## Proyecto Chaucha
+
+La primera vez que escuché con respecto a Chaucha, fue en un canal de televisión, en Diciembre pasado, cuando el valor de Bitcoin llegaba a sus máximos históricos. ¿Quién no pensó en haber comprado antes para lograr un poco de aquella riqueza tan inmediata?.
+
+Comencé de inmediato a buscar información con respecto a Chaucha, que era la nueva criptomoneda Chilena. Las primeras Chaucha 
+
+Muchos que compraron Bitcoin a un bajo precio, lograron millones de dolares en Diciembre, haciendose millonarios de la noche a la mañana, o eso nos decían.
+
+La verdad es que no es tan así. Ya que llevo poco más de medio año involucrado en el mundo de las criptomonedas, puedo decir que propiedad que 
+
+Supe en ese momento que tenía que involucrarme, entender de qué trataba este mundo que daba tanto que hablar por aquel entonces.
+
+Desde que llegaron
+
+A continuación te dejo el principal objetivo del proyecto, aunque no el único.
+
+"*Una organización enfocada en diseñar e implementar herramientas de software que ayuden a la adopción y educación de las personas hacia la tecnología Blockchain.*
+
+*La finalidad del Proyecto Chaucha es permitir que los nuevos usuarios de criptomonedas puedan aprender sobre el funcionamiento de los sistemas a partir de un ejercicio práctico, utilizando las herramientas y la documentación generada por los miembros la organización.*"
+
+
+
+
 ## Donaciones
 
 Chaucha Trader Pro es el resultado de un arduo trabajo de varias semanas, para que todos puedan tener un producto de excelencia y gratuito para la comunidad.
