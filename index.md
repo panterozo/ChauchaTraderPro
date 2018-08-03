@@ -3,17 +3,19 @@
 
 # Chaucha Trader Pro
 
-Con la reapertura de las cuentas del exchange OrionX, la app [Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro) volverá a funcionar sin problemas, enhorabuena!.
 
-Por otra parte, te comento que he trabajado en varias funcionalidades en la aplicación para llevarla a otro nivel, para que la experiencia del usuario sea fantástica y rica en contenido. Estas mejoras vendrán con nuevas actualizaciones. Actualiza la aplicación en el siguiente link [Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro).
+[Chaucha Trader Pro](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro) volvió y con todo!. Para quienes habían seguido el proyecto, les traigo varias novedades, en lo que será la versión número 4.0.0 del software.
 
-Se vienen nuevos proyectos, y tu apoyo es fundamental.
+Ha sido un largo y a veces difícil camino, pero muy entretenido, y lo hago con mucho cariño. Me encuentro muy agradecido de la comunidad por las buenas opiniones y evaluaciones positivas que he recibido en Play Store.
+Por lo mismo, y como gran compromiso con la comunidad, les traigo la más grande actualización del Chaucha Trader Pro!.
+
+Te invito a seguir leyendo para enterarte de las novedades ;).
 
 ## Imagen de Perfil
 
 La imagen de perfil del menú, se obtiene desde lo que se conoce como **Globally Recongnized Avatar** o **Avatar reconocido mundialmente**. La idea detrás de esto, es que con tu correo electrónico tengas un avatar global en internet. De esta manera, no es necesario subir una imagen en cada sitio por el cual navegues. 
 
-Para incluir tu imagen en **Chaucha Trader Pro**, te recomendamos subirla en [Gravatar](https://es.gravatar.com/), con el correo electrónico con el cual estés iniciando sesión.
+Para incluir tu imagen en **Chaucha Trader Pro**, te recomiendo subirla a [Gravatar](https://es.gravatar.com/), con el correo electrónico con el cual estés iniciando sesión.
 
 
 Tu gravatar | Avatar por defecto
@@ -52,23 +54,30 @@ Home Configuración | Pares Disponibles | Actualizar mercados
 
 ## Proyecto Chaucha
 
-La primera vez que escuché con respecto a Chaucha, fue en un canal de televisión, en Diciembre pasado, cuando el valor de Bitcoin llegaba a sus máximos históricos. ¿Quién no pensó en haber comprado antes para lograr un poco de aquella riqueza tan inmediata?.
 
-Comencé de inmediato a buscar información con respecto a Chaucha, que era la nueva criptomoneda Chilena. Las primeras Chaucha 
+Dejé una sección para hablar del proyecto chaucha. Así quedó en su primera versión:
 
-Muchos que compraron Bitcoin a un bajo precio, lograron millones de dolares en Diciembre, haciendose millonarios de la noche a la mañana, o eso nos decían.
+---
 
-La verdad es que no es tan así. Ya que llevo poco más de medio año involucrado en el mundo de las criptomonedas, puedo decir que propiedad que 
+El [Proyecto Chaucha](https://www.chaucha.cl/) es una organización enfocada en diseñar e implementar herramientas de software que permitan acercar de una manera amigable, e incluso lúdica, a personas con deseos de aprender sobre criptomonedas.
 
-Supe en ese momento que tenía que involucrarme, entender de qué trataba este mundo que daba tanto que hablar por aquel entonces.
+Al tener soluciones prácticas, esperamos que las personas interactúen e imaginen los potenciales que tiene esta tecnología, la tecnología blockchain.
 
-Desde que llegaron
+Queremos ser pioneros en cuanto al desarrollo de soluciones blockchain. Queremos que chaucha sea la moneda por la cual instituciones públicas y privadas opten en desarrollo de soluciones descentralizadas, y por sobre todo, queremos ser un centro gravitacional, donde todas las preguntas con respecto a blockchain puedan ser resueltas, por los mismos que estamos constantemente dándole forma a los diferentes proyectos.
 
-A continuación te dejo el principal objetivo del proyecto, aunque no el único.
+Te hago la invitación a que te nos unas en nuestro [grupo](https://t.me/chaucha) en Telegram, y "le hables" a nuestra mascota @quirquincho.
 
-"*Una organización enfocada en diseñar e implementar herramientas de software que ayuden a la adopción y educación de las personas hacia la tecnología Blockchain.*
+Uno de los principales problemas que identificamos, es el bajo nivel de inglés de las personas, en Chile y América Latina. Es un problema ya que las soluciones tecnológicas no están siendo creadas en la región, y sentimos que nos estamos quedando atrás. Las grandes soluciones están siendo desarrolladas en los países más desarrollados, y por ende, también el conocimiento. Hoy, tenemos una oportunidad única para equilibrar esa balanza, siendo productores, y porqué no, exportadores de la tecnología del futuro.
 
-*La finalidad del Proyecto Chaucha es permitir que los nuevos usuarios de criptomonedas puedan aprender sobre el funcionamiento de los sistemas a partir de un ejercicio práctico, utilizando las herramientas y la documentación generada por los miembros la organización.*"
+Por último, te invito a visitar nuestro sitio de [documentación](https://docs.chaucha.cl/) generada por el proyecto chaucha, y no menos importante, veas los [códigos fuente](https://github.com/proyecto-chaucha) de nuestras soluciones utilizando blockchain. Como puedes ver, los códigos fuente están libres para que juegues con ellos. Si tienes dudas, siempre habrá alguien dispuesto a apoyar en tu descubrimiento.
+
+
+
+Ignacio Álvarez.
+
+@panterozo
+
+---
 
 
 
