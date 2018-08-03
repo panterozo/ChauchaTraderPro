@@ -1,5 +1,5 @@
 
-![image](https://lh3.googleusercontent.com/Uxld8sMxAlb-NjsAByS4p1KWLqnwlxwmIdOaePJWEPmgQkeSxAuOfjHuEnIz9m72NgU=h150-rw)
+<img src="./conf/chauchatraderpro.png" alt="drawing" width="200px"/>
 
 # Chaucha Trader Pro
 

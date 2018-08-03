@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+    font-family: Roboto,sans-serif;
+    color: #303030;
+    line-height: 1.3;
+    background-color:#282C34;
+}
+h1, h2, h3, h4, h5, h6 {
+    
+}
+
+a{
+	color:#FFFFFF;
+}
+p, div {
+    padding-left:1em;
+    padding-right:1em;
+    text-align: justify;
+    color:#B0B1B5
+}
+
+
+.title{
+ margin-top:1em;
+ color: #A23934;
+ text-align: center;
+}
