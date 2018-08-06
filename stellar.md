@@ -11,7 +11,7 @@ El botón **Configuración por defecto** te permitirá reiniciar los valores de 
 
 Home Configuración | Actualizar mercados | Stellar en Chaucha Trader
 -----|-------|-------
-![image](img/Configuraciones01.jpg) | ![image](img/Configuraciones03.jpg) | ![image](img/Stellar.jpg) 
+![image](img/Configuraciones01.jpg) | ![image](img/Configuraciones03.jpg) | ![image](img/StellarLumens.jpg) 
 
 ## Donaciones
 
