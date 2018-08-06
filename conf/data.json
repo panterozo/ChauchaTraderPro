@@ -1,6 +1,6 @@
 {
     "appVersion" : "4.0.0",
-    "jsonVersion" : "0.0.1",
+    "jsonVersion" : "0.0.2",
     "exchange" : {
         "orionx" : {
             "markets" : [ 
@@ -8,6 +8,7 @@
                     "basecurrency" : "BTC",
                     "pares" : [ 
                         "CHA", 
+                        "XLM", 
                         "ETH", 
                         "XRP", 
                         "LTC", 
@@ -25,6 +26,7 @@
                         "XRP", 
                         "LTC", 
                         "BCH", 
+                        "XLM", 
                         "DASH"
                     ]
                 }
@@ -83,6 +85,13 @@
                     "DASH" : {
                         "id_spinner" : 7,
                         "name" : "Dash",
+                        "decimal" : 8
+                    }
+                }, 
+                {
+                    "XLM" : {
+                        "id_spinner" : 7,
+                        "name" : "Stellar",
                         "decimal" : 8
                     }
                 }

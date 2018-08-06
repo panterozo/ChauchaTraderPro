@@ -91,6 +91,7 @@ Con este mismo ánimo y para ayudarme también a seguir con el proyecto, te dejo
 
 Crypto | Wallet
 -----|-------
+**Stellar** | `GBGX2VRRGLCLMPPS6DZC7FYCPKEHGWLDTYBXUSZH5NSM4MIOUY4XGOCC`<br>**NEMO:** `248`
 **Chaucha** | `ceoNBCv1JF6GgeAhsFLk6efbRkCX5n8kZn`
 **Luka** | `LK3Rwd2ffUxAUHj6bW8zkECLmn1SXawJ4C3oNzJJtcBh5AWJ5BfVwBs3NrzUxway5tNkcFBF333tR47eQLJXNQ3ECm6XbJV`<br>**Luka (Payment ID):** `920ee32f90c717ada4b261c08004b76294cfd83ed864078de7a30ffa9b94d262`
 **Bitcoin** | `1CWpA2XnFnfTnbAJN94MpQWyunJgoKYz8K`
