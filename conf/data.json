@@ -1,6 +1,6 @@
 {
     "appVersion" : "4.0.0",
-    "jsonVersion" : "0.0.2",
+    "jsonVersion" : "0.0.3",
     "exchange" : {
         "orionx" : {
             "markets" : [ 
@@ -92,7 +92,7 @@
                     "XLM" : {
                         "id_spinner" : 7,
                         "name" : "Stellar",
-                        "decimal" : 8
+                        "decimal" : 7
                     }
                 }
             ]
