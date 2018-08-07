@@ -3,6 +3,14 @@
 
 # Chaucha Trader Pro
 
+En la tarde de hoy, al momento de habilitar Stellar en Chaucha Trader Pro, se reportó una incidencia con la funcionalidad propia de Stellar Lumens en la aplicación, por lo que se decidió quitar Stellar para no generar mayores inconvenientes.
+
+El problema fue resuelto, por lo que la aplicación ha sido actualizada a su versión 4.0.1.
+
+Te recomiendo actualizar la aplicación en el siguiente [Link](https://play.google.com/store/apps/details?id=com.panterozo.chauchatraderpro).
+
+# Stellar
+
 Con la apertura de Stellar en OrionX, lo único que tienes que hacer en la app es dar click en **Actualizar Mercados**. 
 
 El botón **Actualizar Mercados** buscará si existe alguna nueva moneda que agregar o quitar en Chaucha Trader Pro. 
