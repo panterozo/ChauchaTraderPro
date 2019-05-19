@@ -1,6 +1,6 @@
 {
     "appVersion" : "4.0.1",
-    "jsonVersion" : "0.0.5",
+    "jsonVersion" : "0.0.6",
     "exchange" : {
         "orionx" : {
             "markets" : [
