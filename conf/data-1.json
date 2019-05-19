@@ -13,6 +13,8 @@
                         "LTC",
                         "BCH",
                         "XLM",
+						"TRX",
+						"BNB",
                         "DASH"
                     ]
                 },
@@ -21,12 +23,15 @@
                     "pares" : [
                         "BTC",
                         "CHA",
-                        "LUK",
+						"LTC",
                         "ETH",
-                        "XRP",
-                        "LTC",
                         "BCH",
+                        "LUK",						
+                        "XRP",                        
                         "XLM",
+						"TRX",
+						"BNB",
+						"DAI",
                         "DASH"
                     ]
                 }
