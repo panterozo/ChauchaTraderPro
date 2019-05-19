@@ -13,8 +13,8 @@
                         "LTC",
                         "BCH",
                         "XLM",
-						"TRX",
-						"BNB",
+			"TRX",
+			"BNB",
                         "DASH"
                     ]
                 },
@@ -23,20 +23,41 @@
                     "pares" : [
                         "BTC",
                         "CHA",
-						"LTC",
+			"LTC",
                         "ETH",
                         "BCH",
                         "LUK",						
                         "XRP",                        
                         "XLM",
-						"TRX",
-						"BNB",
-						"DAI",
+			"TRX",
+			"BNB",
+			"DAI",
                         "DASH"
                     ]
                 }
             ],
             "coins" : [
+		{
+                    "TRX" : {
+                        "wallet" : "TWVSVePGL9CrmbxiMqanxVQiYiGCCiiBYn",
+                        "name" : "Tron",
+                        "decimal" : 6
+                    }
+                },
+		{
+                    "DAI" : {
+                        "wallet" : "0x7465C81B11260D522B9194965e51A760984b68AD",
+                        "name" : "Dai",
+                        "decimal" : 7
+                    }
+                },
+		{
+                    "BNB" : {
+                        "wallet" : "0xE5ba1Fd13E8542d8FA3c75074a4c356DD5Ec095e",
+                        "name" : "Binance",
+                        "decimal" : 7
+                    }
+                },
                 {
                     "CHA" : {
                         "wallet" : "ceoNBCv1JF6GgeAhsFLk6efbRkCX5n8kZn",
